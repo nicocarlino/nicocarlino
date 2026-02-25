@@ -26,14 +26,15 @@ I play <b>guitar</b>, <b>bass</b>, and <b>drums</b> — and I record & produce m
 </p>
 
 <p>
-📫 <b>Contact me:</b> nicolascarlino@proton.me
+📫 <b>Contact me:</b> 
+<a href="mailto:nicolascarlino@proton.me">nicolascarlino@proton.me</a>
 </p>
 
 ---
 
-<h2>💻 Languages</h2>
+<h2 align="center">💻 Languages</h2>
 
-<p>
+<p align="center">
 <a href="https://www.iso.org/standard/74528.html" target="_blank" rel="nofollow">
 <img alt="C" src="https://img.shields.io/badge/C-004482?style=for-the-badge&logo=c&logoColor=white" />
 </a>
@@ -62,6 +63,11 @@ I play <b>guitar</b>, <b>bass</b>, and <b>drums</b> — and I record & produce m
 ---
 
 <h2>🛠 Tools</h2>
+
+<p>
+🟦 <b>Visual Studio Code</b><br>
+🟪 <b>Visual Studio</b>
+</p>
 
 <p>
 <a href="https://code.visualstudio.com/" target="_blank" rel="nofollow">

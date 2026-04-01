@@ -11,10 +11,12 @@ i primarly code on low level languages as a hobby
 <p align="center">
 <a href="https://isocpp.org/" target="_blank" rel="nofollow"><img alt="C++" src="https://img.shields.io/badge/C++-%23F5792A.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></a>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="nofollow"><img alt="C" src="https://img.shields.io/badge/C-2b2b2b?style=for-the-badge&logo=c&logoColor=%23A8B9CC" /></a>
+<a href="https://www.java.com" target="_blank" rel="nofollow"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="nofollow"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /></a>
+</p>
+<p align="center">
 <a href="https://www.w3.org/html" target="_blank" rel="nofollow"><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
 <a href="https://www.w3schools.com/css" target="_blank" rel="nofollow"><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" /></a>
-<a href="https://www.java.com" target="_blank" rel="nofollow"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /></a>
 </p>
 
 ---

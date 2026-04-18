@@ -41,6 +41,7 @@ i primarly code on low level languages as a hobby
 
 <h4 align="center">security & reversing tools</h4>
 <p align="center">
+<a href="https://hex-rays.com/ida-pro/" target="_blank" rel="nofollow"><img alt="IDA Pro" src="https://img.shields.io/badge/IDA%20Pro-2D2D2D?style=flat-square" /></a>
 <a href="https://www.cheatengine.org" target="_blank" rel="nofollow"><img alt="Cheat Engine" src="https://img.shields.io/badge/Cheat%20Engine-2E2E2E?style=flat-square" /></a>
 <a href="https://x64dbg.com" target="_blank" rel="nofollow"><img alt="x64dbg" src="https://img.shields.io/badge/x64dbg-1C1C1C?style=flat-square" /></a>
 <a href="https://processhacker.sourceforge.io" target="_blank" rel="nofollow"><img alt="Process Hacker" src="https://img.shields.io/badge/Process%20Hacker-2D2D2D?style=flat-square" /></a>

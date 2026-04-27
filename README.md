@@ -61,5 +61,5 @@ i primarily code on low level languages as a hobby
 ---
 
 <p align="center">
-<i>"May all your desires come true."</i>
+<i>"むこう岸が視る夢."</i>
 </p>

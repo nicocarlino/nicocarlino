@@ -76,3 +76,5 @@
 - <a href="https://github.com/000nico/process-proxy-hijacking">Process Proxy Hijacking</a>: Hijack a process with a desired HANDLE, so you can read/write memory without opening a new one.
 <br><br>
 - <a href="https://github.com/000nico/rusthook">Rusthook</a>: Minimalistic trampoline hooking librarie
+
+> i found myself through peb walking

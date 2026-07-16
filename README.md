@@ -64,18 +64,3 @@
 <a href="https://www.microsoft.com/windows" target="_blank" rel="nofollow"><img alt="Windows" src="https://custom-icon-badges.demolab.com/badge/Windows-0078D4?style=flat&logo=windows11&logoColor=white" /></a>
 <a href="https://www.linux.org/" target="_blank" rel="nofollow"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" /></a>
 </p>
-
----
-
-<p align="left">
-<i>Please take a look on some of my projects:</i>
-</p>
-
-<p align="left">
-- <a href="https://github.com/000nico/universal-disassembler">Universal Disassembler</a>: Dissassembler with support of PE, MACH-O, ELF and RAW
-<br><br>
-- <a href="https://github.com/000nico/process-proxy-hijacking">Process Proxy Hijacking</a>: Hijack a process with a desired HANDLE, so you can read/write memory without opening a new one.
-<br><br>
-- <a href="https://github.com/000nico/rusthook">Rusthook</a>: Minimalistic trampoline hooking librarie
-
-> i found myself through peb walking

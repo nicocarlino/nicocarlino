@@ -64,3 +64,7 @@
 <a href="https://www.microsoft.com/windows" target="_blank" rel="nofollow"><img alt="Windows" src="https://custom-icon-badges.demolab.com/badge/Windows-0078D4?style=flat&logo=windows11&logoColor=white" /></a>
 <a href="https://www.linux.org/" target="_blank" rel="nofollow"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" /></a>
 </p>
+
+---
+
+<i>God had no hand in the creation of this abhorrence. The fact that this monolith exists proves that god is either impotent to alter his universe or ignorant to the horrors taking place in his Kingdom</i>
